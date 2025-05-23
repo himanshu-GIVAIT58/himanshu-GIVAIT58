@@ -5,15 +5,6 @@
   <a href="https://github.com/himanshu-GIVAIT58">
     <img src="https://img.shields.io/badge/GitHub-himanshu--GIVAIT58-blue?style=flat-square&logo=github" alt="GitHub Badge">
   </a>
-  <a href="https://twitter.com/himanshu_GIVAIT58">
-    <img src="https://img.shields.io/badge/Twitter-himanshu__GIVAIT58-blue?style=flat-square&logo=twitter" alt="Twitter Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/himanshu-GIVAIT58">
-    <img src="https://img.shields.io/badge/LinkedIn-himanshu--GIVAIT58-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.medium.com/@himanshu-GIVAIT58">
-    <img src="https://img.shields.io/badge/Medium-himanshu--GIVAIT58-blue?style=flat-square&logo=medium" alt="Medium Badge">
-  </a>
 </div>
 
 <div align="center">
