@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi I'm Himanshu Yadav</h1>
 
 <div align="center">
@@ -37,6 +37,8 @@
 </div>
 
 ---
+-->
+
 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/himanshu-GIVAIT58/count.svg?align=center)
